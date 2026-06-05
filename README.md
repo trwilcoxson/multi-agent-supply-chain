@@ -57,7 +57,7 @@ pip install -r project/requirements.txt
 Create a `.env` file with your OpenAI API key:
 
 ```
-UDACITY_OPENAI_API_KEY=your_key_here
+OPENAI_API_KEY=your_key_here
 ```
 
 ## Usage
